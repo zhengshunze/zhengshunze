@@ -1,20 +1,17 @@
 #  鄭舜澤 (Shunze Zheng)
 
  - Birthday: May 23th , 1998
- - Education: 私立明志科技大學-機械工程系
+ - Education: 明志科技大學-機械工程系
  - Personal Website: 
  - Location: Taoyuan
  - E-Mail: zhengshunze2021@gmail.com
  - Mobile: 0928-268-701
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengshunze&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengshunze&show_icons=true&theme=tokyonight)
 
 
 #  使用的程式語言
-
-  ![](https://img.shields.io/badge/Python-FFFFFF)
-  ![](https://img.shields.io/badge/C%23-FFFFFF)
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengshunze&hide=javascript,css,scss,html&theme=tokyonight)
 
 # 使用的IDE
 
@@ -65,5 +62,3 @@
 - 聊天機器人
 
    ![](https://img.shields.io/badge/line--bot--sdk-FFFFFF)
-
-
