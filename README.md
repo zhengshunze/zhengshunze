@@ -2,7 +2,7 @@
 
  - Birthday: May 23th , 1998
  - Education: 明志科技大學-機械工程系
- - Personal Website: 
+ - Personal Website: https://zezelinebot.herokuapp.com/
  - Location: Taoyuan
  - E-Mail: zhengshunze2021@gmail.com
  - Mobile: 0928-268-701
