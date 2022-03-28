@@ -3,9 +3,9 @@
  - Birthday: May 23th , 1998
  - Education: 明志科技大學-機械工程系
  - Personal Website: https://zezelinebot.herokuapp.com/
- - Location: Taoyuan
+ - Location: Taiwan-Taoyuan
  - E-Mail: zhengshunze2021@gmail.com
- - Mobile: 0928-268-701
+ - Mobile: 0928-268-701 (06:00~10:00;13:00~20:00)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengshunze&show_icons=true&theme=tokyonight)
 
