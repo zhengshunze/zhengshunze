@@ -2,7 +2,7 @@
 
 #  鄭舜澤 (Shunze Zheng)
 ###  您好，以下是我的簡介<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
- - 👉My CV ：[Eric_CV.pdf](https://drive.google.com/file/d/1NpkY5bJmnrBiPlUnLLHw_IY-0y4k6EdX/view?usp=sharing)
+ - 👉My CV ：[Eric_CV.pdf](https://drive.google.com/file/d/1wGzHs-KVt7voDcF7LRl3iypjqWElrxWv/view?usp=sharing)
  - ⚡Birthday: May 23th , 1998
  - 🌱Education: 明志科技大學-機械工程系
  - 🚀Personal Website: https://zezelinebot.herokuapp.com/
