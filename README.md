@@ -12,7 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengshunze&show_icons=true&theme=tokyonight)
 
-- 🚩近期目標: [Flutter](https://github.com/zhengshunze/Flutter_Practice) 、 [Kivy](https://github.com/zhengshunze/kivy)
+- 🚩近期目標: [Tkinter](https://github.com/zhengshunze/Tkinter)、[Flutter](https://github.com/zhengshunze/Flutter_Practice) 、 [Kivy](https://github.com/zhengshunze/kivy)
 
 #  使用的程式語言
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengshunze&hide=javascript,css,scss,html&theme=tokyonight)
