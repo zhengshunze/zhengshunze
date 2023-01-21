@@ -66,7 +66,10 @@
 - 聊天機器人
 
    ![](https://img.shields.io/badge/line--bot--sdk-FFFFFF)
+   
+- GUI介面開發
 
+   ![](https://img.shields.io/badge/Tkinter-FFFFFF)
 <div > 
   <h4>Visitor count</h4>
   <img src="https://profile-counter.glitch.me/zhengshunze/count.svg" />
