@@ -2,6 +2,7 @@
 
 # 🚩近期目標
 
+- [Vue.js](https://github.com/zhengshunze/Vue_js_practice)
 - [Tkinter](https://github.com/zhengshunze/tkinter_practice)
 - [Flutter](https://github.com/zhengshunze/Flutter_Practice) 
 - [Kivy](https://github.com/zhengshunze/kivy)
