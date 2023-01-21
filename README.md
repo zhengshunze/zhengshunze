@@ -1,6 +1,10 @@
 ![1](https://user-images.githubusercontent.com/77151276/160334959-fb45326c-c954-4d03-b238-93cda94c717c.jpeg)
 
-- 🚩近期目標: [Tkinter](https://github.com/zhengshunze/tkinter_practice)、[Flutter](https://github.com/zhengshunze/Flutter_Practice) 、 [Kivy](https://github.com/zhengshunze/kivy)
+# 🚩近期目標
+
+- [Tkinter](https://github.com/zhengshunze/tkinter_practice)
+- [Flutter](https://github.com/zhengshunze/Flutter_Practice) 
+- [Kivy](https://github.com/zhengshunze/kivy)
 
 #  鄭舜澤 (Shunze Zheng)
 ###  您好，以下是我的簡介<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
