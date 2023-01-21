@@ -1,5 +1,7 @@
 ![1](https://user-images.githubusercontent.com/77151276/160334959-fb45326c-c954-4d03-b238-93cda94c717c.jpeg)
 
+- 🚩近期目標: [Tkinter](https://github.com/zhengshunze/tkinter_practice)、[Flutter](https://github.com/zhengshunze/Flutter_Practice) 、 [Kivy](https://github.com/zhengshunze/kivy)
+
 #  鄭舜澤 (Shunze Zheng)
 ###  您好，以下是我的簡介<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
  - 👉My CV ：[SHZ_CV.pdf](https://drive.google.com/file/d/1wGzHs-KVt7voDcF7LRl3iypjqWElrxWv/view?usp=sharing)
@@ -12,7 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengshunze&show_icons=true&theme=tokyonight)
 
-- 🚩近期目標: [Tkinter](https://github.com/zhengshunze/Tkinter)、[Flutter](https://github.com/zhengshunze/Flutter_Practice) 、 [Kivy](https://github.com/zhengshunze/kivy)
+
 
 #  使用的程式語言
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengshunze&hide=javascript,css,scss,html&theme=tokyonight)
