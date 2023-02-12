@@ -1,7 +1,7 @@
 ![1](https://user-images.githubusercontent.com/77151276/160334959-fb45326c-c954-4d03-b238-93cda94c717c.jpeg)
 
 # 🚩近期目標
-- [Vue.js](https://github.com/zhengshunze/ChatGPT_Desktop_Application)
+- [ChatGPT_Desktop_Application](https://github.com/zhengshunze/ChatGPT_Desktop_Application)
 - [Vue.js](https://github.com/zhengshunze/Vue_js_practice)
 - [Tkinter](https://github.com/zhengshunze/tkinter_practice)
 - [Flutter](https://github.com/zhengshunze/Flutter_Practice) 
