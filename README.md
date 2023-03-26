@@ -2,6 +2,7 @@
 
 # 🚩近期目標
 - [ChatGPT Desktop Application](https://github.com/zhengshunze/ChatGPT_Desktop_Application)
+- [WinChatGPT](https://github.com/zhengshunze/WinChatGPT)
 - [Vue.js](https://github.com/zhengshunze/Vue_js_practice)
 - [Tkinter](https://github.com/zhengshunze/tkinter_practice)
 - [Flutter](https://github.com/zhengshunze/Flutter_Practice) 
