@@ -9,7 +9,7 @@
 - [Vue.js](https://github.com/zhengshunze/Vue_js_practice)
   - Side Project：Warehouse Management System
 - [Tkinter](https://github.com/zhengshunze/tkinter_practice)
-
+     - Side Project：[AutoSwitchIME](https://github.com/zhengshunze/AutoSwitchIME)
 - [Flutter](https://github.com/zhengshunze/Flutter_Practice)
   - Side Project：Airtag Tracker
 - [Kivy](https://github.com/zhengshunze/kivy)
