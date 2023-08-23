@@ -1,6 +1,10 @@
 ![1](https://user-images.githubusercontent.com/77151276/160334959-fb45326c-c954-4d03-b238-93cda94c717c.jpeg)
 
 # 🚩近期目標
+
+- [Electron](https://github.com/zhengshunze/Electron_practice)
+  - Side Project：
+     - [ZARA Screen Recorder](https://github.com/zhengshunze/ZARA_Screen_Recorder)
 - [PyQT](https://github.com/zhengshunze/PyQT_practice)
   - Side Project：
      - [ChatGPT Desktop Application](https://github.com/zhengshunze/ChatGPT_Desktop_Application)
