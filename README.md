@@ -1,5 +1,8 @@
 ![1](https://user-images.githubusercontent.com/77151276/160334959-fb45326c-c954-4d03-b238-93cda94c717c.jpeg)
 
+> “人生很短，世界很大，風景很美，機會很多，只要是你認為值得的夢想就去追求！”  —— 日本富士山
+
+
 # 🚩近期目標
 
 - [Electron](https://github.com/zhengshunze/Electron_practice)
