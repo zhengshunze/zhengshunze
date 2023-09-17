@@ -25,7 +25,7 @@
 
 
 
-[![MyCV](https://github.com/zhengshunze/zhengshunze/assets/77151276/4603b48f-0139-413a-80b6-c1db05f1010d.png)](https://drive.google.com/file/d/1wGzHs-KVt7voDcF7LRl3iypjqWElrxWv/view?usp=sharing)
+[![MyCV](https://github-production-user-asset-6210df.s3.amazonaws.com/77151276/268513025-4603b48f-0139-413a-80b6-c1db05f1010d.png)](https://drive.google.com/file/d/1wGzHs-KVt7voDcF7LRl3iypjqWElrxWv/view?usp=sharing)
 
 #  鄭舜澤 (Shunze Zheng)
 ###  您好，以下是我的簡介<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
