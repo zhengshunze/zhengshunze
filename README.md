@@ -24,8 +24,8 @@
 - [Kivy](https://github.com/zhengshunze/kivy)
 
 
-![image](https://github.com/zhengshunze/zhengshunze/assets/77151276/27bb84e2-6e7c-4fb2-b87d-6a13634cd333)(https://drive.google.com/file/d/1wGzHs-KVt7voDcF7LRl3iypjqWElrxWv/view?usp=sharing)
 
+[![MyCV](https://github.com/zhengshunze/zhengshunze/assets/77151276/4603b48f-0139-413a-80b6-c1db05f1010d.png)](https://drive.google.com/file/d/1wGzHs-KVt7voDcF7LRl3iypjqWElrxWv/view?usp=sharing)
 
 #  鄭舜澤 (Shunze Zheng)
 ###  您好，以下是我的簡介<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
