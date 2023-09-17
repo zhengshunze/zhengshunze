@@ -2,7 +2,8 @@
 
 > “人生很短，世界很大，風景很美，機會很多，只要是你認為值得的夢想就去追求！”  —— 日本富士山
 
-[![My Skills](https://skillicons.dev/icons?i=js,flutter,qt,py,vscode,electron,html,idea,css,cs,dart,git,mysql,nodejs,swift,tailwind,visualstudio)](https://skillicons.dev)
+
+
 
 # 🚩近期目標
 
@@ -21,6 +22,10 @@
 - [Flutter](https://github.com/zhengshunze/Flutter_Practice)
   - Side Project：Airtag Tracker
 - [Kivy](https://github.com/zhengshunze/kivy)
+
+
+![image](https://github.com/zhengshunze/zhengshunze/assets/77151276/27bb84e2-6e7c-4fb2-b87d-6a13634cd333)(https://drive.google.com/file/d/1wGzHs-KVt7voDcF7LRl3iypjqWElrxWv/view?usp=sharing)
+
 
 #  鄭舜澤 (Shunze Zheng)
 ###  您好，以下是我的簡介<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
