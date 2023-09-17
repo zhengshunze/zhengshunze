@@ -2,7 +2,7 @@
 
 > “人生很短，世界很大，風景很美，機會很多，只要是你認為值得的夢想就去追求！”  —— 日本富士山
 
-[![My Skills](https://skillicons.dev/icons?i=js,flutter,qt,py,vscode,electron,html,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,flutter,qt,py,vscode,electron,html,idea,css,cs,dart,git,mysql,nodejs,swift,tailwind,visualstudio)](https://skillicons.dev)
 
 # 🚩近期目標
 
