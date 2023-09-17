@@ -23,24 +23,16 @@
   - Side Project：Airtag Tracker
 - [Kivy](https://github.com/zhengshunze/kivy)
 
-![Frame 2 (2)](https://github.com/zhengshunze/zhengshunze/assets/77151276/510e2abd-d0a2-4608-8fcb-dc92112a50d8)
 
 
-[![MyCV](https://github-production-user-asset-6210df.s3.amazonaws.com/77151276/268513263-510e2abd-d0a2-4608-8fcb-dc92112a50d8.png)](https://drive.google.com/file/d/1wGzHs-KVt7voDcF7LRl3iypjqWElrxWv/view?usp=sharing)
 
 
 #  鄭舜澤 (Shunze Zheng)
 ###  您好，以下是我的簡介<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
- - 👉My CV ：[SHZ_CV.pdf](https://drive.google.com/file/d/1wGzHs-KVt7voDcF7LRl3iypjqWElrxWv/view?usp=sharing)
- - ⚡Birthday: May 23th , 1998
- - 🌱Education: 明志科技大學-機械工程系
- - 🚀Personal Website: https://zezelinebot.herokuapp.com/
- - 🌐Location: Taiwan-Taoyuan
- - 📫E-Mail: zhengshunze2021@gmail.com
- - ☎ Mobile: 0928-268-701 (06:00 - 10:00 ; 13:00 - 20:00)
+
+[![MyCV](https://github-production-user-asset-6210df.s3.amazonaws.com/77151276/268513263-510e2abd-d0a2-4608-8fcb-dc92112a50d8.png)](https://drive.google.com/file/d/1wGzHs-KVt7voDcF7LRl3iypjqWElrxWv/view?usp=sharing)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengshunze&show_icons=true&theme=tokyonight)
-
 
 
 #  使用的程式語言
@@ -60,7 +52,7 @@
    ![](https://img.shields.io/badge/MySQL-FFFFFF)
    ![](https://img.shields.io/badge/Mongodb-FFFFFF)
    
-#  使用的套件
+#  專案曾使用的套件
 - 爬蟲、自動化網頁測試
 
     ![](https://img.shields.io/badge/bs4-FFFFFF)
@@ -97,7 +89,6 @@
    ![](https://img.shields.io/badge/line--bot--sdk-FFFFFF)
    
 - GUI介面開發
-
    ![](https://img.shields.io/badge/Tkinter-FFFFFF)
 <div > 
   <h4>Visitor count</h4>
