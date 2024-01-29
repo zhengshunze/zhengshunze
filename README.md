@@ -9,7 +9,7 @@
 
 - [Electron](https://github.com/zhengshunze/Electron_practice)
   - Side Project：
-     - [ZARA Screen Recorder](https://github.com/zhengshunze/ZARA_Screen_Recorder)
+     - [Zara-Awe-Application](https://github.com/zhengshunze/ZARA_Screen_Recorder)
 - [PyQT](https://github.com/zhengshunze/PyQT_practice)
   - Side Project：
      - [ChatGPT Desktop Application](https://github.com/zhengshunze/ChatGPT_Desktop_Application)
