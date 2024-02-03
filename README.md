@@ -15,7 +15,9 @@
 - [PyQT](https://github.com/zhengshunze/PyQT_practice)
   - Side Project：
      - [ChatGPT Desktop Application](https://github.com/zhengshunze/ChatGPT_Desktop_Application)
-     - [WinChatGPT](https://github.com/zhengshunze/WinChatGPT) 
+     - [WinChatGPT](https://github.com/zhengshunze/WinChatGPT)
+     - [WinGPT](https://github.com/zhengshunze/WinGPT) 
+
 
 - [Vue.js](https://github.com/zhengshunze/Vue_js_practice)
   - Side Project：Warehouse Management System
