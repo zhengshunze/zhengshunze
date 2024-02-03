@@ -6,7 +6,7 @@
 
 
 # 🚩近期目標
-- [Leetcode 練習](https://github.com/zhengshunze/leetcode)
+- [LeetCode 練習](https://github.com/zhengshunze/leetcode)
 
 
 - [Electron](https://github.com/zhengshunze/Electron_practice)
