@@ -27,6 +27,10 @@
      - Side Project：[AutoSwitchIME](https://github.com/zhengshunze/AutoSwitchIME)
 - [Flutter](https://github.com/zhengshunze/Flutter_Practice)
   - Side Project：Airtag Tracker
+ 
+- [Swift](https://github.com/zhengshunze/Swift_Practice)
+  - Side Project：[AI_Carrefour](https://github.com/zhengshunze/AI_Carrefour)
+
 - [Kivy](https://github.com/zhengshunze/kivy)
 
 
