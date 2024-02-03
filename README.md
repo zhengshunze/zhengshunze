@@ -8,6 +8,8 @@
 # 🚩近期目標
 - [LeetCode 練習](https://github.com/zhengshunze/leetcode)
 
+- [Codeing 練習](https://github.com/zhengshunze/colab_practice)
+
 
 - [Electron](https://github.com/zhengshunze/Electron_practice)
   - Side Project：
