@@ -24,12 +24,13 @@
 - [Vue.js](https://github.com/zhengshunze/Vue_js_practice)
   - Side Project：Warehouse Management System
 - [Tkinter](https://github.com/zhengshunze/tkinter_practice)
-     - Side Project：[AutoSwitchIME](https://github.com/zhengshunze/AutoSwitchIME)
+     - [AutoSwitchIME](https://github.com/zhengshunze/AutoSwitchIME)
+     - [Let's Shop Around](https://github.com/zhengshunze/Let-s-Shop-Around)
 - [Flutter](https://github.com/zhengshunze/Flutter_Practice)
   - Side Project：Airtag Tracker
  
 - [Swift](https://github.com/zhengshunze/Swift_Practice)
-  - Side Project：[AI_Carrefour](https://github.com/zhengshunze/AI_Carrefour)
+  - Side Project：[AI Carrefour](https://github.com/zhengshunze/AI_Carrefour)
 
 - [Kivy](https://github.com/zhengshunze/kivy)
 
