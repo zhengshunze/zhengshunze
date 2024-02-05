@@ -7,6 +7,7 @@
 
 # 🚩近期目標
 - [LeetCode 練習](https://github.com/zhengshunze/leetcode)
+  - [Binary Search](https://github.com/zhengshunze/LeetCode/tree/main/Binary%20Search)
 
 - [Codeing 練習](https://github.com/zhengshunze/colab_practice)
 
