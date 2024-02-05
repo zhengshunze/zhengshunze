@@ -24,8 +24,9 @@
 - [Vue.js](https://github.com/zhengshunze/Vue_js_practice)
   - Side Project：Warehouse Management System
 - [Tkinter](https://github.com/zhengshunze/tkinter_practice)
-     - [AutoSwitchIME](https://github.com/zhengshunze/AutoSwitchIME)
-     - [Let's Shop Around](https://github.com/zhengshunze/Let-s-Shop-Around)
+  - Side Project：
+    -  [AutoSwitchIME](https://github.com/zhengshunze/AutoSwitchIME)
+    -  [Let's Shop Around](https://github.com/zhengshunze/Let-s-Shop-Around)
 - [Flutter](https://github.com/zhengshunze/Flutter_Practice)
   - Side Project：Airtag Tracker
  
