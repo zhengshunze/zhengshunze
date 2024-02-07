@@ -38,7 +38,7 @@
 - [Kivy](https://github.com/zhengshunze/kivy)
 
 
-
+- [3D建模作品](https://github.com/zhengshunze/3D_Model)
 
 
 #  鄭舜澤 (Shunze Zheng)
