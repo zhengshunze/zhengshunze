@@ -39,7 +39,7 @@
   - Side Project：[AI Carrefour](https://github.com/zhengshunze/AI_Carrefour)
 
 - [Kivy](https://github.com/zhengshunze/kivy)
-   - Side Project：404 Find Found
+   - Side Project：404 Not Found
 
 - [3D建模作品](https://github.com/zhengshunze/3D_Model)
 
