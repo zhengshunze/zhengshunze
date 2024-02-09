@@ -8,7 +8,10 @@
 # 🚩近期目標
 - [LeetCode 練習](https://github.com/zhengshunze/leetcode)
   - [Binary Search](https://github.com/zhengshunze/LeetCode/tree/main/Binary%20Search)
-    
+  - [Quick Sort](https://github.com/zhengshunze/LeetCode/tree/main/Quick%20Sort)
+  - [Select Sort](https://github.com/zhengshunze/LeetCode/tree/main/Select%20Sort)
+
+
 - [Codeing 練習](https://github.com/zhengshunze/colab_practice)
   
 - [Web作品集](https://github.com/zhengshunze/HTML_CSS_Practice)
