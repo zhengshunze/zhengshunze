@@ -3,8 +3,6 @@
 > “人生很短，世界很大，風景很美，機會很多，只要是你認為值得的夢想就去追求！”  —— 日本富士山
 
 
-
-
 # 🚩近期目標
 - [LeetCode 練習](https://github.com/zhengshunze/leetcode)
   - [Binary Search](https://github.com/zhengshunze/LeetCode/tree/main/Binary%20Search)
@@ -48,7 +46,7 @@
 #  鄭舜澤 (Shunze Zheng)
 ###  您好，以下是我的簡介<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-[![MyCV](https://github-production-user-asset-6210df.s3.amazonaws.com/77151276/268513263-510e2abd-d0a2-4608-8fcb-dc92112a50d8.png)](mailto:zezeshunze@gmail.com)
+[![MyCV](https://github.com/zhengshunze/zhengshunze/assets/77151276/96f3e559-04d1-4dfe-9aef-d4aef33014cd)](mailto:zezeshunze@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengshunze&show_icons=true&theme=tokyonight)
 
