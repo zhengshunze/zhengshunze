@@ -46,7 +46,7 @@
 #  鄭舜澤 (Shunze Zheng)
 ###  您好，以下是我的簡介<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-[![MyCV](https://github.com/zhengshunze/zhengshunze/assets/77151276/96f3e559-04d1-4dfe-9aef-d4aef33014cd)](mailto:zezeshunze@gmail.com)
+[![MyCV](https://github.com/zhengshunze/zhengshunze/assets/77151276/663a64de-f16f-4786-80ff-a4581088548d)](https://54zeze.onrender.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengshunze&show_icons=true&theme=tokyonight)
 
