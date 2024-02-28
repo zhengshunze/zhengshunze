@@ -32,7 +32,8 @@
     -  [Let's Shop Around](https://github.com/zhengshunze/Let-s-Shop-Around)
     -  [Py-SpeenchToText](https://github.com/zhengshunze/Py-SpeenchToText)
 - [Flutter](https://github.com/zhengshunze/Flutter_Practice)
-  - Side Project：Airtag Tracker (2024/03)
+  - Side Project：
+    - [Airtag_Tracker](https://github.com/zhengshunze/Airtag_Tracker)
  
 - [Swift](https://github.com/zhengshunze/Swift_Practice)
   - Side Project：[AI Carrefour](https://github.com/zhengshunze/AI_Carrefour)
