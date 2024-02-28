@@ -32,6 +32,7 @@
   - Side Project：
     -  [AutoSwitchIME](https://github.com/zhengshunze/AutoSwitchIME)
     -  [Let's Shop Around](https://github.com/zhengshunze/Let-s-Shop-Around)
+    -  [Py-SpeenchToText](https://github.com/zhengshunze/Py-SpeenchToText)
 - [Flutter](https://github.com/zhengshunze/Flutter_Practice)
   - Side Project：Airtag Tracker (2024/03)
  
